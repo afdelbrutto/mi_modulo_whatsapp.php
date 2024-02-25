@@ -23,4 +23,30 @@ Este proyecto está licenciado bajo la Licencia MIT.
 ## Contacto
 
 Para soporte, contacta a email@example.com.
+mi_modulo_whatsapp/
+├── config.xml
+├── index.php
+├── logo.png
+├── mi_modulo_whatsapp.php
+├── views/
+│   ├── css/
+│   │   └── front.css
+│   ├── js/
+│   │   └── front.js
+│   └── templates/
+│       └── front/
+│           └── whatsappbutton.tpl
+└── controllers/
+    └── admin/
+        └── AdminConfigController.php
 
+
+        
+Configuración Base
+Configuration Item	Options
+🌐 Language	PHP + JavaScript
+📚 Project Type	Web Development
+📖 Comment Style	Descriptive + Inline
+🛠️ Code Structure	Modular
+🚫 Error Handling Strategy	Robust
+⚡ Performance Optimization Level	Medium
